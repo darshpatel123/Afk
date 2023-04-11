@@ -1,6 +1,6 @@
 {
-	"ip":"FlyMcDarsh.aternos.me",
-	"port": "25565",
+	"ip":"node2.magmanode.com",
+	"port": "27019",
 	"name": "afkbot1",
-	"auto-night-skip":"true"
+	"auto-night-skip":"false"
 }
